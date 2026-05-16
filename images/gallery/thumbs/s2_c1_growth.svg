@@ -1,0 +1,26 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+  <defs>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+      <stop offset="60%" stop-color="rgba(0,0,0,0)"/>
+      <stop offset="100%" stop-color="rgba(0,0,0,0.18)"/>
+    </radialGradient>
+  </defs>
+  <rect width="500" height="500" fill="#EDE6DC"/>
+  <rect x="0" y="370" width="500" height="130" fill="#DDD4C6"/>
+  <rect x="80" y="340" width="60" height="30" rx="1" fill="#D4C8B8"/>
+  <rect x="80" y="310" width="60" height="32" rx="1" fill="#D8CCBE"/>
+  <rect x="140" y="310" width="60" height="60" rx="1" fill="#D4C8B8"/>
+  <rect x="140" y="278" width="60" height="34" rx="1" fill="#DCCFC2"/>
+  <rect x="200" y="278" width="60" height="92" rx="1" fill="#D4C8B8"/>
+  <rect x="200" y="244" width="60" height="36" rx="1" fill="#E0D3C6"/>
+  <rect x="260" y="244" width="60" height="126" rx="1" fill="#D4C8B8"/>
+  <rect x="260" y="210" width="60" height="36" rx="1" fill="#E4D8CC"/>
+  <rect x="320" y="210" width="60" height="160" rx="1" fill="#D4C8B8"/>
+  <rect x="320" y="178" width="60" height="34" rx="1" fill="#E6DACD"/>
+  <rect x="380" y="178" width="80" height="192" rx="1" fill="#D4C8B8"/>
+  <circle cx="352" cy="164" r="11" fill="#B0A494"/>
+  <rect x="345" y="175" width="14" height="20" rx="3" fill="#B0A494"/>
+  <rect width="500" height="500" fill="url(#vignette)"/>
+  <!-- label -->
+  <text x="40" y="452" font-family="Georgia, serif" font-size="13" font-weight="400" fill="rgba(255,255,255,0.92)" letter-spacing="4">GROWTH</text>
+</svg>
